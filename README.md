@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayane</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">A passionate junior developer from France</h3>
 
 - 🌱 I’m currently learning **software development**
 
