@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **rayanekanuka@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rayane-kanuka](www.linkedin.com/in/rayane-kanuka)
-
 - ⚡ Fun fact **I'm also a comedian**
 
 <h3 align="left">Connect with me:</h3>
